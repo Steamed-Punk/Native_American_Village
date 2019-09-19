@@ -4,14 +4,14 @@
 
 **!!! WORK IN PROGRESS !!!**
 
-![Image description](https://raw.githubusercontent.com/Steamed-Punk/Indian-Village-Mod/master/screenshot.png?token=ANDKMR72ZLXZFXYOBGKDQ3C5OUVVW)
+![Image description](https://github.com/Steamed-Punk/Native-American-Village/blob/master/screenshot.png)
 
 **!!! Special thanks to TenPlus1 it's thanks to your mods and API's that this mod was born !!!**
 
 As with most creations you need resources. This mod is no different. If you want to build a tepee and/or campfire you will need to hunt.
 You will need buffalo hide for part of your tepee and you will need buffalo fat to start your fire. You can cook the meat and get some juicy ribs to sink your teeth into. Who knows what the horns could be used for!?
 
-![Image description](https://raw.githubusercontent.com/Steamed-Punk/Indian-Village-Mobs/master/screenshot.png?token=ANDKMR7MT4DCXMZIGO7RRES5OUVCM)
+![Image description](https://github.com/Steamed-Punk/Native-American-Village/blob/master/screenshot01.png)
 
 **!!! Special thanks to Nathan.S who generously animated the mesh for the buffalo  !!!**
 
