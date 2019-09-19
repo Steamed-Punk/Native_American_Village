@@ -1,3 +1,9 @@
+-- Licenses of media (3D Meshes and textures)
+-- ---------------------------------------
+
+-- Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+-- Copyright (C) 2019 Steamed_Punk steamedpunk.mt at gmail.com
 
   -- TEEPEE
 
