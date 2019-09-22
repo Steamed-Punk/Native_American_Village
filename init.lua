@@ -12,4 +12,6 @@ dofile(path .. "/decor.lua") -- Steamed_Punk
 dofile(path .. "/bbcanoe.lua") -- Steamed_Punk
 dofile(path .. "/campfire.lua") -- Steamed_Punk
 dofile(path .. "/buffalo.lua") -- Steamed_Punk
+dofile(path .. "/tools.lua") -- Steamed_Punk
+dofile(path .. "/ore.lua") -- Steamed_Punk
 print (S("[MOD] Native American Village loaded"))

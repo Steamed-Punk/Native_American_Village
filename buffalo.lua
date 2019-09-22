@@ -52,6 +52,7 @@ mobs:register_mob("nativeamericanvillage:buffalo", {
 	immune_to = {
 	{"bows:bow_wood", 30},
 	{"bows:bow_steel", 40},
+	{"nativeamericanvillage:tomahawk", 40},
 	{"all"}
 	},
 
@@ -59,7 +60,7 @@ mobs:register_mob("nativeamericanvillage:buffalo", {
 	water_damage = 0,
 	lava_damage = 5,
 	light_damage = 0,
-	fear_height = 2,
+	fear_height = 3,
 	group_attack = true,
 	animation = {
 		speed_normal = 15,
@@ -77,8 +78,8 @@ mobs:register_mob("nativeamericanvillage:buffalo", {
 	replace_what = {
 		{"group:grass", "air", 0},
 		{"default:dirt_with_grass", "default:dirt", -1}
-
 },
+biomes = {"snowy_grassland", "grassland", "savanna",}
 })
 
 
@@ -93,8 +94,9 @@ mobs:spawn({
 	active_object_count = 30,
 	active_object_count_wider = 0,
 	min_height = 0,
-	max_height = 3,
+	max_height = 30,
 	day_toggle = true,
+	biomes = {"snowy_grassland", "grassland", "savanna",}
 })
 
 
