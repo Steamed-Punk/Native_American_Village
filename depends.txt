@@ -5,3 +5,4 @@ fire
 mobs
 bows
 bonemeal
+throwing
