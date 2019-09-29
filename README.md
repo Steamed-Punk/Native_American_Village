@@ -36,6 +36,13 @@ The code for Mobs/Mobs_Redo/Buffalo mob are
 
 ---------------------------------------------------------------------------
 
+The code for the Throwable Tomahawk is built using the Throwing_Redo mod.
+- Copyright (C) Eurythmia team
+- Forum Topic:
+https://forum.minetest.net/viewtopic.php?f=11&t=16365
+
+---------------------------------------------------------------------------
+
 The log campfire in this mod is based on the "new_campfire_v0.3.0" by googol.
 # License of source code:
 - Copyright (C) 2017 Pavel Litvinoff <googolgl@gmail.com> and 2019 Steamed_Punk
