@@ -28,6 +28,7 @@ The models and textures for this Minetest mod are
 - <https://forum.minetest.net/viewtopic.php?f=9&t=23279&p=356653#p356653>
 
 ---------------------------------------------------------------------------
+# Different source code Licenses.
 
 The code for Mobs/Mobs_Redo/Buffalo mob are
 - Copyright (C) 2014 Krupnov Pavel and 2016 TenPlus1 and 2019 Steamed_Punk
@@ -44,7 +45,6 @@ https://forum.minetest.net/viewtopic.php?f=11&t=16365
 ---------------------------------------------------------------------------
 
 The log campfire in this mod is based on the "new_campfire_v0.3.0" by googol.
-# License of source code:
 - Copyright (C) 2017 Pavel Litvinoff <googolgl@gmail.com> and 2019 Steamed_Punk
 - Forum Topic:
 - <https://forum.minetest.net/viewtopic.php?f=9&t=16611>
