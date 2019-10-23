@@ -46,9 +46,9 @@ minetest.register_ore({
 	ore_type       = "scatter",
 	ore            = "nativeamericanvillage:turquoise",
 	wherein        = "default:stone",
-	clust_scarcity = 8 * 8 * 8,
-	clust_num_ores = 9,
-	clust_size     = 3,
+	clust_scarcity = 2 * 2 * 2,
+	clust_num_ores = 2,
+	clust_size     = 2,
 	y_max          = 30,
 	y_min          = -100,
 })

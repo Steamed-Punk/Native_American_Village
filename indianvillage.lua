@@ -23,8 +23,8 @@
     collisionbox = {-1.5, -0.5, -1.5, 1.5, 1.5, 1.5},
     recipe = {
             {'', 'default:stick ', ''},
-            {'group:stick','nativeamericanvillage:hide', 'default:stick '},
-            {'group:stick', 'indianvillage_mobs:hide', 'default:stick '},
+            {'default:stick','nativeamericanvillage:buffalotanned', 'default:stick '},
+            {'default:stick', 'nativeamericanvillage:buffalotanned', 'default:stick '},
             },
   })
 

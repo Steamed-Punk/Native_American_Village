@@ -110,3 +110,72 @@ minetest.register_entity("nativeamericanvillage:tomahawk", throwing.make_arrow_d
 	sound = {breaks = "default_tool_breaks"},
 
 })
+
+-- KNIFE
+
+minetest.register_tool("nativeamericanvillage:stone_knife", {
+	description = "Stone Knife",
+	inventory_image = "nativeamericanvillage_knife.png",
+	tool_capabilities = {
+		full_punch_interval = 0.8,
+		max_drop_level=1,
+		groupcaps={
+			snappy={times={[1]=2.5, [2]=1.20, [3]=0.35}, uses=30, maxlevel=2},
+		},
+		damage_groups = {fleshy=8},
+	},
+	sound = {breaks = "default_tool_breaks"},
+})
+
+-- KNIFE_CRAFT
+
+minetest.register_craft({
+		output = "nativeamericanvillage:stone_knife",
+		recipe = {
+				{'', '', ''},
+				{'','default:stone', ''},
+				{'', '', 'default:stick'},
+		}
+})
+
+-- KNIFE_CRAFT_ITEM
+
+minetest.register_craftitem(":nativeamericanvillage:stone_knife", {
+	description = ("Stone Knife"),
+	inventory_image = "nativeamericanvillage_knife.png",
+	stack_max = 16,
+})
+-- SCRAPER
+
+minetest.register_tool("nativeamericanvillage:scraper", {
+	description = "Scraper",
+	inventory_image = "nativeamericanvillage_scraper.png",
+	tool_capabilities = {
+		full_punch_interval = 0.8,
+		max_drop_level=1,
+		groupcaps={
+			snappy={times={[1]=2.5, [2]=1.20, [3]=0.35}, uses=30, maxlevel=2},
+		},
+		damage_groups = {fleshy=8},
+	},
+	sound = {breaks = "default_tool_breaks"},
+})
+
+-- SCRAPER_CRAFT
+
+minetest.register_craft({
+		output = "nativeamericanvillage:scraper",
+		recipe = {
+				{'', '', ''},
+				{'','nativeamericanvillage:horn', ''},
+				{'', 'nativeamericanvillage:bone', ''},
+		}
+})
+
+-- SCRAPER_CRAFT_ITEM
+
+minetest.register_craftitem(":nativeamericanvillage:scraper", {
+	description = ("Scraper"),
+	inventory_image = "nativeamericanvillage_scraper.png",
+	stack_max = 16,
+})
