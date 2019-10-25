@@ -40,7 +40,7 @@ local function fire_particles_on(pos) -- 3 layers of fire
         maxsize = 5,
         collisiondetection = false,
         vertical = true,
-        texture = "indianvillage__flame_animated.png",
+        texture = "indianvillage_flame_animated.png",
         animation = {type="vertical_frames", aspect_w=65, aspect_h=64, length = 0.8,},
 --      playername = "singleplayer"
     })
@@ -61,7 +61,7 @@ local function fire_particles_on(pos) -- 3 layers of fire
         maxsize = 0.7,
         collisiondetection = false,
         vertical = true,
-        texture = "indianvillage__flame_animated.png",
+        texture = "indianvillage_flame_animated.png",
         animation = {type="vertical_frames", aspect_w=64, aspect_h=64, length = 0.7,},
      -- playername = "singleplayer"
     })
@@ -82,7 +82,7 @@ local function fire_particles_on(pos) -- 3 layers of fire
         maxsize = 4,
         collisiondetection = true,
         vertical = true,
-        texture = "indianvillage__smoke_animated.png",
+        texture = "indianvillage_smoke_animated.png",
         animation = {type="vertical_frames", aspect_w=32, aspect_h=32, length = 0.9,},
         -- playername = "singleplayer"
     })
@@ -259,7 +259,7 @@ minetest.register_node('nativeamericanvillage:campfireoff', {
                 size = 4,
                 collisiondetection = true,
                 vertical = true,
-                texture = "indianvillage__smoke_animated.png",
+                texture = "indianvillage_smoke_animated.png",
                 animation = {type="vertical_frames", aspect_w=32, aspect_h=32, length = 2.5,},
 --               playername = "singleplayer"
             })

@@ -47,7 +47,7 @@ local boat = {
 		collisionbox = {-0.5, -0.35, -0.5, 0.5, 0.3, 0.5},
 		visual = "mesh",
 		mesh = "indianvillage_bbcanoe.obj",
-		textures = {"indianvillage__bbcanoe.png"},
+		textures = {"indianvillage_bbcanoe.png"},
 	},
 
 	driver = nil,

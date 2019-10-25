@@ -40,7 +40,7 @@ minetest.register_node("nativeamericanvillage:totem", {
     description = "Skull",
     drawtype = "mesh",
     mesh = "indianvillage_buffaloskull.obj",
-    tiles = {"indianvillage__decor_buffaloskull.png"},
+    tiles = {"indianvillage_decor_buffaloskull.png"},
     inventory_image = "item_buffaloskull.png",
     wield_image = "item_buffaloskull.png",
     buildable_to = false,
