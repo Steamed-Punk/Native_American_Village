@@ -1,11 +1,11 @@
--- Rock Climbing by Steamed_Punk (CC BY-NC 3.0)
+-- Native American Village by Steamed_Punk (CC BY-NC 3.0)
 local path = minetest.get_modpath("nativeamericanvillage")
 
 -- Load support for intllib.
 local MP = minetest.get_modpath(minetest.get_current_modname())
 local S, NS = dofile(MP.."/intllib.lua")
 
--- Rock Climbing
+-- Native American Village
 
 dofile(path .. "/indianvillage.lua") -- Steamed_Punk
 dofile(path .. "/decor.lua") -- Steamed_Punk
@@ -16,4 +16,4 @@ dofile(path .. "/tools.lua") -- Steamed_Punk
 dofile(path .. "/ore.lua") -- Steamed_Punk
 dofile(path .. "/tanning.lua") -- Steamed_Punk
 
-print (S("[MOD] Rock Climbing loaded"))
+print (S("[MOD] Native American Village loaded"))
