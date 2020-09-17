@@ -2,7 +2,6 @@
 
 **!!! This is not supposed to be historically correct or target any Nation or tribe, it is definitely not intended to be detrimental in any way shape or form. If anything this is for fun and a cross bred love based on an over mediatized and glorified Hollywood image and growing up in a family that participated in large charity organized re-enactments, yes I got dressed up and shot a lot as a kid. On the other hand, I have no objections to advice to make this as authentic as possible,  !!!**
 
-**!!! WORK IN PROGRESS !!!**
 
 ![Image description](https://github.com/Steamed-Punk/Native-American-Village/blob/master/screenshot.png)
 
