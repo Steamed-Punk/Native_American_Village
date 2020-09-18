@@ -3,7 +3,7 @@
 
 -- Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
--- Copyright (C) 2019 Steamed_Punk steamedpunk.mt at gmail.com
+-- Copyright (C) 2019 - 2020 Steamed_Punk steamedpunk.mt at gmail.com
 
 
 --TURQUOISE
@@ -46,7 +46,7 @@ minetest.register_ore({
 	ore_type       = "scatter",
 	ore            = "nativeamericanvillage:turquoise",
 	wherein        = "default:stone",
-	clust_scarcity = 2 * 2 * 2,
+	clust_scarcity = 8 * 8 * 8,
 	clust_num_ores = 2,
 	clust_size     = 2,
 	y_max          = 30,
