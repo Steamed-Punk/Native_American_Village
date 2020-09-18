@@ -6,8 +6,6 @@
 
 ---------------------------------------------------------------------------
 # TO HAVE SLEEPABLE TEPEE'S YOU MUST INSTALL 'Mesh_Beds'.
-
-The code for Mobs/Mobs_Redo/Buffalo mob are
 - Copyright (C) JP
 - Forum Topic:
 - <https://forum.minetest.net/viewtopic.php?f=9&t=11817&hilit=bed+mesh>
