@@ -10,6 +10,8 @@
 - Forum Topic:
 - <https://forum.minetest.net/viewtopic.php?f=9&t=11817&hilit=bed+mesh>
 
+---------------------------------------------------------------------------
+
 **!!! Special thanks to TenPlus1 it's thanks to your mods and API's that this mod was born !!!**
 
 As with most creations you need resources. This mod is no different. If you want to build a tepee and/or campfire you will need to hunt.
