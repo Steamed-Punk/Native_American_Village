@@ -90,11 +90,11 @@ mobs:spawn({
 	neighbors = {"default:dirt_with_grass", "default:dirt_with_dry_grass","default:dirt_with_snow", "ethereal:green_dirt"},
 	min_light = 14,
 	interval = 120,
-	chance = 12000, --15000,
+	chance = 8000, --15000,
 	active_object_count = 6,
 	active_object_count_wider = 0,
 	min_height = 0,
-	max_height = 3,
+	max_height = 15,
 	day_toggle = true,
 	biomes = {"snowy_grassland", "grassland", "savanna",}
 })
