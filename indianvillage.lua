@@ -27,8 +27,3 @@
             {'default:stick', 'nativeamericanvillage:buffalotanned', 'default:stick '},
             },
   })
-
-    minetest.override_item("default:apple", {
-        wield_image = "default_apple_2.png",
-        inventory_image = "default_apple_2.png",
-    })
